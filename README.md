@@ -1,4 +1,4 @@
-# Ruby Intro To Object Relationships: "Belongs To"
+# Object Relationship Basics
 
 ## Introduction
 
